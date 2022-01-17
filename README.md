@@ -16,9 +16,9 @@ Others:
 
 - 💬 Ask me about **Hacking,Linux,Python**
 
-- 📫 How to reach me **blackhatinfo12@gmail.com**
+- 📫 Reach me **blackhatinfo12@gmail.com**
 
-- ❤RelationShip Status **In Relationsleep Read Again!💔🥺🤟**
+- ❤ RelationShip Status **In Relationsleep Read Again!💔🥺🤟**
 
 <h3 align="left">My Skills :</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" 
