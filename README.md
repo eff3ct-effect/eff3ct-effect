@@ -13,7 +13,7 @@ Country = ['Nepal']
 ```
 Others:
 - 🔭 I’m currently working [My Instagram Page](https://www.instagram.com/blackhat_info/)
-- 
+
 - 🌱I'm Currently Busy at **Hunting Bugs, Learning About Redteaming**
 
 - 💬 Ask me about **Hacking,Linux,Python**
