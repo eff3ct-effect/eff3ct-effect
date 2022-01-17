@@ -12,6 +12,8 @@ what_I_Do = ['Bug Hunter','Programmer','Security Engineer','Nepali','Student']
 Country = ['Nepal']
 ```
 Others:
+- 🔭 I’m currently working [My Instagram Page](https://www.instagram.com/blackhat_info/)
+- 
 - 🌱I'm Currently Busy at **Hunting Bugs, Learning About Redteaming**
 
 - 💬 Ask me about **Hacking,Linux,Python**
@@ -19,6 +21,9 @@ Others:
 - 📫 Reach me **blackhatinfo12@gmail.com**
 
 - ❤ RelationShip Status **In Relationsleep Read Again!💔🥺🤟**
+
+- ❤ I basically love Python the most
+- 
 
 <h3 align="left">My Skills :</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" 
