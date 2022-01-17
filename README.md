@@ -11,6 +11,14 @@ name = "Eff3ct_009"
 what_I_Do = ['Bug Hunter','Programmer','Security Engineer','Nepali','Student']
 Country = ['Nepal']
 ```
+Others:
+- 🌱I'm Currently Busy at **Hunting Bugs, Learning About Redteaming**
+
+- 💬 Ask me about **Hacking,Linux,Python**
+
+- 📫 How to reach me **blackhatinfo12@gmail.com**
+
+- ❤RelationShip Status **In Relationsleep Read Again!💔🥺🤟**
 
 <h3 align="left">My Skills :</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" 
