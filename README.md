@@ -1,3 +1,5 @@
-name = "Eff3ct"
-what_I_Do = ['Developer','Coder','Security Researcher','Ethical Hacker','Indian','Sanatani','Student']
-religion = "Hinduism"
+### About 🙋🏻‍♂️
+```Python
+name = "Eff3ct_009"
+what_I_Do = ['Bug Hunter','Coder','Security Enginerr','Ethical Hacker','Nepali','Student']
+```
