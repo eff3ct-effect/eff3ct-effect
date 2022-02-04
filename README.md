@@ -8,7 +8,7 @@
 ### About ME 🤟😎
 ```Python
 name = "Eff3ct_009"
-what_I_Do = ['Bug Hunter','Programmer','Security Engineer','Nepali','Student']
+what_I_Do = ['Bug Hunter','Programmer','Security Analyst','Nepali','Student']
 Country = ['Nepal']
 ```
 Others:
