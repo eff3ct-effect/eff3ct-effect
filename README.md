@@ -34,5 +34,5 @@ align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"
 <h3 align="left">Find ME:</h3>
 <p align="left">
 <a href="https://instagram.com/eff3ct_effect" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eff3ct_effect" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucmqnkbqena7awpa9fqxjcsq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucmqnkbqena7awpa9fqxjcsq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucmqnkbqena7awpa9fqxjcsq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCyffPUpe6u3wo2TI3DavGFA" height="30" width="40" /></a>
 </p>
